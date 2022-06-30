@@ -1,0 +1,27 @@
+{
+    "name": "Paul Kim",
+    "website": "https://gresba.github.io/",
+    "linkedin": "https://www.linkedin.com/in/kimpaul0709/",
+    "github": "gresba",
+    "email": "kimpaul0709@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Java",
+        "JavaScript",
+        "C++",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Collaboration",
+        "Communication",
+        "Project Management"
+    ]
+}
+
